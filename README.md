@@ -24,19 +24,6 @@ Hello there 👋🏾, I'm Sherpad.
 
 </details>
 
-[<button style="
-	border: none;
-	border-radius: 50%;
-	bottom: 2rem;
-	/*color: #fff;*/
-    cursor: pointer;
-	font-size: 2rem;
-	height: 45px;
-    padding: 0 16px 5px;
-	position: fixed;
-	right: 3rem;
-    z-index: 1">↑</button>](#)
-
 ## About Me 👨🏾‍💻 ##
 
 🎓 I'm a BSc in Computing student at the University of South Africa.
