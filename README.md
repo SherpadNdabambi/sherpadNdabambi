@@ -116,7 +116,7 @@ I've written code in these languages as a hobby:
 
 [CodinGame](https://www.codingame.com/) - 48,623<sup>rd</sup> (top 8% 🌍, top 9% 🇿🇼)*
 
-[Clash of Code!](#https://www.codingame.com/multiplayer/clashofcode) - 282,303<sup>rd</sup> / 496,374 (top 57% ⬆️)
+[Clash of Code!](https://www.codingame.com/multiplayer/clashofcode) - 282,303<sup>rd</sup> / 496,374 (top 57% ⬆️)
 
 ## Attributions ##
 
