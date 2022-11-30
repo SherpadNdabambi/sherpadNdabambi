@@ -42,7 +42,7 @@ Hello there 👋🏾, I'm Sherpad.
 
 ## Frameworks 🛠️ ##
 
-[<img alt="Flutter logo" src="./img/Google-flutter-logo.svg" style="background-color: white; border-radius: 3px; width: 100px; padding: 5px">](https://flutter.dev/)
+<div style="background-color: white; border-radius: 3px; padding: 5px; width: 100px;">[<img alt="Flutter logo" src="./img/Google-flutter-logo.svg">](https://flutter.dev/)</div>
 
 ## GitHub Contribution Graph 📈 ##
 
