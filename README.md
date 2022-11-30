@@ -34,11 +34,11 @@ Hello there 👋🏾, I'm Sherpad.
 
 [Game Development with JS (Sololearn)](https://www.sololearn.com/certificates/CT-MMIVGCTR)
 
-<img alt="Sololearn Game Development with JS Certificate" src="./img/cert-CT-MMIVGCTR.jpg" style="max-width: 70%">
+<img alt="Sololearn Game Development with JS Certificate" src="./img/cert-CT-MMIVGCTR.jpg" style="width: 650px">
 
 [C++ (Sololearn)](https://www.sololearn.com/certificates/CT-YTSIREAO)
 
-<img alt="Sololearn C++ Certificate" src="./img/cert-CT-YTSIREAO.png" style="max-width: 70%">
+<img alt="Sololearn C++ Certificate" src="./img/cert-CT-YTSIREAO.png" style="width: 650px">
 
 ## Frameworks 🛠️ ##
 
