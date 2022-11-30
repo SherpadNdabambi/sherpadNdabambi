@@ -133,4 +133,4 @@ I've written code in these languages as a hobby:
 
 ## Notes ##
 
-\* CodinGame ranking last updated on the 29th November, 2022
+\* CodinGame and Clash of Code! rankings last updated on the 29th November, 2022
