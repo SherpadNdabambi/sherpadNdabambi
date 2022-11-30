@@ -120,8 +120,6 @@ I've written code in these languages as a hobby:
 
 ## Attributions ##
 
-<hr>
-
 [Codechef icon](https://icons8.com/icon/O4SEeX66BY8o/codechef) by [Icons8](https://icons8.com/)
 
 [Codepip icon](https://pbs.twimg.com/profile_images/1323425723969929218/bT8Uxv_i_400x400.jpg) by [Codepip](https://codepip.com/)
