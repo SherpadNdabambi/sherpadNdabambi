@@ -42,7 +42,7 @@ Hello there 👋🏾, I'm Sherpad.
 
 ## Frameworks 🛠️ ##
 
-[<img alt="Flutter logo" src="./img/Google-flutter-logo.svg" style="width: 100px;">](https://flutter.dev/)
+[<img alt="Flutter logo" src="./img/Google-flutter-logo.svg" style="height: 64px;">](https://flutter.dev/)
 
 ## GitHub Contribution Graph 📈 ##
 
@@ -54,31 +54,30 @@ Hello there 👋🏾, I'm Sherpad.
 
 I've programmed in the following languages professionally:
 
-1. HTML
-1. CSS
-1. JavaScript
+[<img alt="HTML5 logo" style="height: 64px" src="./img/HTML5_Badge.svg">](https://html.spec.whatwg.org/)
+[<img alt="CSS3 badge" style="height: 64px" src="./img/CSS3_logo.svg">](https://www.w3.org/TR/CSS/#css)
+[<img alt="JavaScript logo" style="height: 64px" src="./img/600px-JavaScript-logo.png">](http://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 
 ### Academic 🏫 ###
 
-I've completed formal courses in the following languages:
+I've completed courses in the following languages:
 
-1. C++
-1. C#
-1. Dart
-1. PHP
-1. Python
-1. SQL
+[<img alt="C++ logo" style="height: 64px" src="./img/ISO_C++_Logo.svg">](https://isocpp.org/)
+[<img alt="C# logo" style="height: 64px" src="./img/C_Sharp_wordmark.svg">](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[<img alt="Dart programming language logo icon" style="height: 64px" src="./img/Dart_programming_language_logo_icon.svg">](https://dart.dev/)
+[<img alt="PHP logo" style="height: 64px" src="./img/PHP-logo.svg">](https://www.php.net/)
+[<img alt="Python logo" style="height: 64px" src="./img/Python-logo-notext.svg">](https://www.python.org/)
+[<img alt="SQL logo" style="height: 64px" src="./img/Sql-icon.svg">](https://www.iso.org/standard/63555.html)
 
 ### Hobby 🧘🏾‍♂️ ###
 
 I've written code in these languages as a hobby:
 
-1. Bash
-1. Googlescript
-1. Fish
-1. Markdown
-1. Shell
-1. VBA
+[<img alt="GNU Bash logo" style="height: 64px" src="./img/Gnu-bash-logo.svg">](https://www.gnu.org/software/bash/)
+[<img alt="Google Apps Script logo" style="height: 64px" src="./img/Google_Apps_Script.svg">](https://script.google.com/)
+[<img alt="Fish logo" style="height: 64px" src="./img/Fish-shell-logo-ascii.svg">](http://fishshell.com/)
+[<img alt="Markdown mark" style="height: 64px" src="./img/Markdown-mark.svg">](https://daringfireball.net/projects/markdown/)
+[<img alt="VBA logo" style="height: 64px" src="./img/VBA_LOGO_Featured.jpg">](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications)
 
 ### Most Used Languages 🌟 ###
 
@@ -93,7 +92,7 @@ I've written code in these languages as a hobby:
 [![HackerRank icon](img/HackerRank.png)](https://www.hackerrank.com/sgndabambi)
 [![CodeChef icon](img/icons8-codechef-32.png)](https://www.codechef.com/users/sherpad)
 [![Codepip](img/Codepip.jpg)](https://codepip.com/user/Sherpad/)
-[<img alt="CodeWars icon" src="img/CodeWars.svg" width="32px">](https://www.codewars.com/users/GSherpad)
+[<img alt="CodeWars icon" src="img/CodeWars.svg" style="height: 32px">](https://www.codewars.com/users/GSherpad)
 [![CodinGame icon](img/CodinGame.png)](https://www.codingame.com/profile/b53169e7c665845268ce25831b36d9124690222)
 [![Exercism icon](img/Exercism.png)](https://exercism.org/profiles/SherpadNdabambi)
 [![Google Developers icon](img/Google%20Developers.png)](https://developers.google.com/profile/u/107231975472218130477)
@@ -107,6 +106,10 @@ I've written code in these languages as a hobby:
 
 ## Attributions ##
 
+[C# logo](https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg) by [Jason Groce](https://github.com/jasongroce) from [GitHub](https://github.com/dotnet/docs/blob/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/csharp.svg)
+
+[C++ logo](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) by Jeremy Kratz from [GitHub](https://github.com/isocpp/logos)
+
 [Codechef icon](https://icons8.com/icon/O4SEeX66BY8o/codechef) by [Icons8](https://icons8.com/)
 
 [Codepip icon](https://pbs.twimg.com/profile_images/1323425723969929218/bT8Uxv_i_400x400.jpg) by [Codepip](https://codepip.com/)
@@ -115,21 +118,45 @@ I've written code in these languages as a hobby:
 
 [CodinGame icon](https://avatars.githubusercontent.com/u/6946974?s=280&v=4) by [CodinGame](https://www.codingame.com/)
 
+[CSS3 logo](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg) by [daPhyre](https://www.deviantart.com/daphyre/)
+
+[Dart logo icon](https://upload.wikimedia.org/wikipedia/commons/a/a2/Dart_programming_language_logo_icon.svg) by https://dart.dev/
+
 [Exercism logo](https://dg8krxphbh767.cloudfront.net/meta/favicon-32x32.png) by [Exercism](https://exercism.org/)
 
 [Facebook icon](https://cdn-icons-png.flaticon.com/512/5968/5968764.png) made by [Freepik](https://www.freepik.com) from [Flaticon](https://www.flaticon.com/)
 
-[Flutter icon](https://en.wikipedia.org/wiki/File:Google-flutter-logo.svg) belongs to [Google](https://about.google/)
+[Fish logo](https://upload.wikimedia.org/wikipedia/commons/d/d8/Fish-shell-logo-ascii.svg) by ComFoxx from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+
+[Flutter icon](https://en.wikipedia.org/wiki/File:Google-flutter-logo.svg) by [Google](https://about.google/)
 
 [GitHub icon](https://cdn-icons-png.flaticon.com/128/733/733609.png) made by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from [Flaticon](https://www.flaticon.com/)
 
+[Google Apps Script logo](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg) by [Google](http://google.com/)
+
 [Google Developers Logo](https://upload.wikimedia.org/wikipedia/commons/4/45/GDevs.png) by [Google](http://google.com/) from [Google Developers](https://developers.google.com/)
 
+[GNU Bash logo](https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg) by [Free Software Foundation](https://www.fsf.org/)
+
+[HTML5 badge](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) by [W3C](https://www.w3.org/html/logo/index.html)
+
+[Javascript logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) by [Ramaksoud2000](https://commons.wikimedia.org/wiki/User:Ramaksoud2000) via Chris Williams
+
 [LinkedIn icon](https://cdn-icons-png.flaticon.com/512/3536/3536505.png) by [riajulislam](https://www.flaticon.com/authors/riajulislam) from [Flaticon](https://www.flaticon.com)
+
+[Markdown mark](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg) by Dustin Curtis from [GitHub](https://github.com/dcurtis/markdown-mark/tree/master/svg)
+
+[PHP logo](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg) by Colin Viebrock from http://php.net/logos
+
+[Python logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) by http://www.python.org
+
+[SQL logo](https://upload.wikimedia.org/wikipedia/commons/9/94/Sql-icon.svg) by [Sokote zaman](https://commons.wikimedia.org/wiki/User:Sokote_zaman)
 
 [TopCoder icon](https://www.topcoder.com/wp-content/uploads/2020/05/cropped-TC-Icon-32x32.png) by [TopCoder](https://www.topcoder.com/)
 
 [Twitter icon](https://cdn-icons-png.flaticon.com/512/733/733579.png) made by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from [Flaticon](www.flaticon.com)
+
+[VBA logo](https://www.tachytelic.net/wp-content/uploads/VBA_LOGO_Featured.png) from [Tachytelic.net](https://www.tachytelic.net/)
 
 ## Notes ##
 
