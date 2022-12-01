@@ -19,8 +19,8 @@ Hello there 👋🏾, I'm Sherpad.
     - [Most Used Languages](#most-used-languages-🌟)
 - [Links](#links-🔗)
 - [Rankings](#rankings-🏆)
-- [Attributions](#attributions)
 - [Notes](#notes)
+- [Attributions](#attributions)
 
 </details>
 
@@ -32,6 +32,8 @@ Hello there 👋🏾, I'm Sherpad.
 
 ## Certificates 🏅 ##
 
+Here are some of my certificates:
+
 [Game Development with JS (Sololearn)](https://www.sololearn.com/certificates/CT-MMIVGCTR)
 
 <img alt="Sololearn Game Development with JS Certificate" src="./img/cert-CT-MMIVGCTR.jpg" style="width: 650px">
@@ -41,6 +43,8 @@ Hello there 👋🏾, I'm Sherpad.
 <img alt="Sololearn C++ Certificate" src="./img/cert-CT-YTSIREAO.png" style="width: 650px">
 
 ## Frameworks 🛠️ ##
+
+I'm familiar with the following frameworks:
 
 [<span title="Flutter"><img alt="Flutter logo" src="./img/Google-flutter-logo.svg" style="height: 64px;"></span>](https://flutter.dev/)
 
@@ -85,6 +89,8 @@ I've written code in these languages as a hobby:
 
 ## Links 🔗 ##
 
+Connect with me.
+
 <span title="LinkedIn">[![LinkedIn icon](img/linkedin.png)](https://www.linkedin.com/in/sherpad-ndabambi)</span>
 <span title="GitHub">[![GitHub icon](img/github.png)](https://github.com/SherpadNdabambi)</span>
 <span title="Twitter">[![Twitter icon](img/twitter.png)](https://twitter.com/sherpadNdabambi)</span>
@@ -103,6 +109,10 @@ I've written code in these languages as a hobby:
 [CodinGame](https://www.codingame.com/) - 48,623<sup>rd</sup> (top 8% 🌍, top 9% 🇿🇼)*
 
 [Clash of Code!](https://www.codingame.com/multiplayer/clashofcode) - 282,303<sup>rd</sup> / 496,374 (top 57% ⬆️)
+
+## Notes ##
+
+\* CodinGame and Clash of Code! rankings last updated on the 29th November, 2022
 
 ## Attributions ##
 
@@ -157,7 +167,3 @@ I've written code in these languages as a hobby:
 [Twitter icon](https://cdn-icons-png.flaticon.com/512/733/733579.png) made by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from [Flaticon](www.flaticon.com)
 
 [VBA logo](https://www.tachytelic.net/wp-content/uploads/VBA_LOGO_Featured.png) from [Tachytelic.net](https://www.tachytelic.net/)
-
-## Notes ##
-
-\* CodinGame and Clash of Code! rankings last updated on the 29th November, 2022
