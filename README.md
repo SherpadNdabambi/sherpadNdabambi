@@ -85,18 +85,18 @@ I've written code in these languages as a hobby:
 
 ## Links 🔗 ##
 
-[![LinkedIn icon](img/linkedin.png)](https://www.linkedin.com/in/sherpad-ndabambi)
-[![GitHub icon](img/github.png)](https://github.com/SherpadNdabambi)
-[![Twitter icon](img/twitter.png)](https://twitter.com/sherpadNdabambi)
-[![Facebook icon](img/facebook.png)](https://www.facebook.com/sherpadg.ndabambi)
-[![HackerRank icon](img/HackerRank.png)](https://www.hackerrank.com/sgndabambi)
-[![CodeChef icon](img/icons8-codechef-32.png)](https://www.codechef.com/users/sherpad)
-[![Codepip](img/Codepip.jpg)](https://codepip.com/user/Sherpad/)
-[<img alt="CodeWars icon" src="img/CodeWars.svg" style="height: 32px">](https://www.codewars.com/users/GSherpad)
-[![CodinGame icon](img/CodinGame.png)](https://www.codingame.com/profile/b53169e7c665845268ce25831b36d9124690222)
-[![Exercism icon](img/Exercism.png)](https://exercism.org/profiles/SherpadNdabambi)
-[![Google Developers icon](img/Google%20Developers.png)](https://developers.google.com/profile/u/107231975472218130477)
-[![TopCoder icon](img/cropped-TC-Icon-32x32.png)](https://platform.topcoder.com/profile/Sherpad)
+<span title="LinkedIn">[![LinkedIn icon](img/linkedin.png)](https://www.linkedin.com/in/sherpad-ndabambi)</span>
+<span title="GitHub">[![GitHub icon](img/github.png)](https://github.com/SherpadNdabambi)</span>
+<span title="Twitter">[![Twitter icon](img/twitter.png)](https://twitter.com/sherpadNdabambi)</span>
+<span title="Facebook">[![Facebook icon](img/facebook.png)](https://www.facebook.com/sherpadg.ndabambi)</span>
+<span title="HackerRank">[![HackerRank icon](img/HackerRank.png)](https://www.hackerrank.com/sgndabambi)</span>
+<span title="CodeChef">[![CodeChef icon](img/icons8-codechef-32.png)](https://www.codechef.com/users/sherpad)</span>
+<span title="Codepip">[![Codepip](img/Codepip.jpg)](https://codepip.com/user/Sherpad/)</span>
+<span title="CodeWars">[<img alt="CodeWars icon" src="img/CodeWars.svg" style="height: 32px">](https://www.codewars.com/users/GSherpad)</span>
+<span title="CodinGame">[![CodinGame icon](img/CodinGame.png)](https://www.codingame.com/profile/b53169e7c665845268ce25831b36d9124690222)</span>
+<span title="Exercism">[![Exercism icon](img/Exercism.png)](https://exercism.org/profiles/SherpadNdabambi)</span>
+<span title="Google">[![Google Developers icon](img/Google%20Developers.png)](https://developers.google.com/profile/u/107231975472218130477)</span>
+<span title="TopCoder">[![TopCoder icon](img/cropped-TC-Icon-32x32.png)](https://platform.topcoder.com/profile/Sherpad)</span>
 
 ## Rankings 🏆 ##
 
