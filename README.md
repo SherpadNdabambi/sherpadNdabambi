@@ -42,7 +42,7 @@ Hello there 👋🏾, I'm Sherpad.
 
 ## Frameworks 🛠️ ##
 
-[<img alt="Flutter logo" src="./img/Google-flutter-logo.svg" style="height: 64px;">](https://flutter.dev/)
+[<span title="Flutter"><img alt="Flutter logo" src="./img/Google-flutter-logo.svg" style="height: 64px;"></span>](https://flutter.dev/)
 
 ## GitHub Contribution Graph 📈 ##
 
@@ -54,30 +54,30 @@ Hello there 👋🏾, I'm Sherpad.
 
 I've programmed in the following languages professionally:
 
-[<img alt="HTML5 logo" style="height: 64px" src="./img/HTML5_Badge.svg">](https://html.spec.whatwg.org/)
-[<img alt="CSS3 badge" style="height: 64px" src="./img/CSS3_logo.svg">](https://www.w3.org/TR/CSS/#css)
-[<img alt="JavaScript logo" style="height: 64px" src="./img/600px-JavaScript-logo.png">](http://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+[<span title="HTML5"><img alt="HTML5 logo" style="height: 64px" src="./img/HTML5_Badge.svg"></span>](https://html.spec.whatwg.org/)
+[<span title="CSS3"><img alt="CSS3 badge" style="height: 64px" src="./img/CSS3_logo.svg"></span>](https://www.w3.org/TR/CSS/#css)
+[<span title="JavaScript"><img alt="JavaScript logo" style="height: 64px" src="./img/600px-JavaScript-logo.png"></span>](http://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 
 ### Academic 🏫 ###
 
 I've completed courses in the following languages:
 
-[<img alt="C++ logo" style="height: 64px" src="./img/ISO_C++_Logo.svg">](https://isocpp.org/)
-[<img alt="C# logo" style="height: 64px" src="./img/C_Sharp_wordmark.svg">](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[<img alt="Dart programming language logo icon" style="height: 64px" src="./img/Dart_programming_language_logo_icon.svg">](https://dart.dev/)
-[<img alt="PHP logo" style="height: 64px" src="./img/PHP-logo.svg">](https://www.php.net/)
-[<img alt="Python logo" style="height: 64px" src="./img/Python-logo-notext.svg">](https://www.python.org/)
-[<img alt="SQL logo" style="height: 64px" src="./img/Sql-icon.svg">](https://www.iso.org/standard/63555.html)
+[<span title="C++"><img alt="C++ logo" style="height: 64px" src="./img/ISO_C++_Logo.svg"></span>](https://isocpp.org/)
+[<span title="C#"><img alt="C# logo" style="height: 64px" src="./img/C_Sharp_wordmark.svg"></span>](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[<span title="Dart"><img alt="Dart programming language logo icon" style="height: 64px" src="./img/Dart_programming_language_logo_icon.svg"></span>](https://dart.dev/)
+[<span title="PHP"><img alt="PHP logo" style="height: 64px" src="./img/PHP-logo.svg"></span>](https://www.php.net/)
+[<span title="Python"><img alt="Python logo" style="height: 64px" src="./img/Python-logo-notext.svg"></span>](https://www.python.org/)
+[<span title="SQL"><img alt="SQL logo" style="height: 64px" src="./img/Sql-icon.svg"></span>](https://www.iso.org/standard/63555.html)
 
 ### Hobby 🧘🏾‍♂️ ###
 
 I've written code in these languages as a hobby:
 
-[<img alt="GNU Bash logo" style="height: 64px" src="./img/Gnu-bash-logo.svg">](https://www.gnu.org/software/bash/)
-[<img alt="Google Apps Script logo" style="height: 64px" src="./img/Google_Apps_Script.svg">](https://script.google.com/)
-[<img alt="Fish logo" style="height: 64px" src="./img/Fish-shell-logo-ascii.svg">](http://fishshell.com/)
-[<img alt="Markdown mark" style="height: 64px" src="./img/Markdown-mark.svg">](https://daringfireball.net/projects/markdown/)
-[<img alt="VBA logo" style="height: 64px" src="./img/VBA_LOGO_Featured.jpg">](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications)
+[<span title="BASH"><img alt="GNU Bash logo" style="height: 64px" src="./img/Gnu-bash-logo.svg"></span>](https://www.gnu.org/software/bash/)
+[<span title="Google Apps Script"><img alt="Google Apps Script logo" style="height: 64px" src="./img/Google_Apps_Script.svg"></span>](https://script.google.com/)
+[<span title="Fish"><img alt="Fish logo" style="height: 64px" src="./img/Fish-shell-logo-ascii.svg"></span>](http://fishshell.com/)
+[<span title="Markdown"><img alt="Markdown mark" style="height: 64px" src="./img/Markdown-mark.svg"></span>](https://daringfireball.net/projects/markdown/)
+[<span title="VBA"><img alt="VBA logo" style="height: 64px" src="./img/VBA_LOGO_Featured.jpg"></span>](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications)
 
 ### Most Used Languages 🌟 ###
 
