@@ -1,8 +1,8 @@
-# Sherpad Ndabambi #
+# Sherpad Ndabambi
 
 Hello there 👋🏾, I'm Sherpad.
 
-## Table of Contents ##
+## Table of Contents
 
 <details>
 
@@ -13,10 +13,10 @@ Hello there 👋🏾, I'm Sherpad.
 - [Frameworks](#frameworks-🛠️)
 - [GitHub Contribution Graph](#github-contribution-graph-📈)
 - [Languages](#languages-📝)
-    - [Professional](#professional-👨🏾‍🏭)
-    - [Academic](#academic-🏫)
-    - [Hobby](#hobby-🧘🏾‍♂️)
-    - [Most Used Languages](#most-used-languages-🌟)
+  - [Professional](#professional-👨🏾‍🏭)
+  - [Academic](#academic-🏫)
+  - [Hobby](#hobby-🧘🏾‍♂️)
+  - [Most Used Languages](#most-used-languages-🌟)
 - [Links](#links-🔗)
 - [Rankings](#rankings-🏆)
 - [Notes](#notes)
@@ -24,15 +24,19 @@ Hello there 👋🏾, I'm Sherpad.
 
 </details>
 
-## About Me 👨🏾‍💻 ##
+## About Me 👨🏾‍💻
 
 🎓 I'm a BSc in Computing student at the University of South Africa.
 
 💻 I'm currently learning web development through [freeCodeCamp](https://www.freecodecamp.org/).
 
-## Certificates 🏅 ##
+## Certificates 🏅
 
 Here are some of my certificates:
+
+[Responsive Web Design (freeCodeCamp)](https://www.freecodecamp.org/certification/Sherpad/responsive-web-design)
+
+<img alt="freecodeCamp Responsive Web Design Certificate" src="./img/freeCodeCamp Responsive Web Design Certificate.jpg" style="width: 650px">
 
 [Game Development with JS (Sololearn)](https://www.sololearn.com/certificates/CT-MMIVGCTR)
 
@@ -42,19 +46,19 @@ Here are some of my certificates:
 
 <img alt="Sololearn C++ Certificate" src="./img/cert-CT-YTSIREAO.png" style="width: 650px">
 
-## Frameworks 🛠️ ##
+## Frameworks 🛠️
 
 I'm familiar with the following frameworks:
 
 [<span title="Flutter"><img alt="Flutter logo" src="./img/Google-flutter-logo.svg" style="height: 64px;"></span>](https://flutter.dev/)
 
-## GitHub Contribution Graph 📈 ##
+## GitHub Contribution Graph 📈
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sherpadndabambi&theme=dracula&hide_border=true)
 
-## Languages 📝 ##
+## Languages 📝
 
-### Professional 👨🏾‍🏭 ###
+### Professional 👨🏾‍🏭
 
 I've programmed in the following languages professionally:
 
@@ -62,7 +66,7 @@ I've programmed in the following languages professionally:
 [<span title="CSS3"><img alt="CSS3 badge" style="height: 64px" src="./img/CSS3_logo.svg"></span>](https://www.w3.org/TR/CSS/#css)
 [<span title="JavaScript"><img alt="JavaScript logo" style="height: 64px" src="./img/600px-JavaScript-logo.png"></span>](http://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 
-### Academic 🏫 ###
+### Academic 🏫
 
 I've completed courses in the following languages:
 
@@ -73,7 +77,7 @@ I've completed courses in the following languages:
 [<span title="Python"><img alt="Python logo" style="height: 64px" src="./img/Python-logo-notext.svg"></span>](https://www.python.org/)
 [<span title="SQL"><img alt="SQL logo" style="height: 64px" src="./img/Sql-icon.svg"></span>](https://www.iso.org/standard/63555.html)
 
-### Hobby 🧘🏾‍♂️ ###
+### Hobby 🧘🏾‍♂️
 
 I've written code in these languages as a hobby:
 
@@ -83,14 +87,15 @@ I've written code in these languages as a hobby:
 [<span title="Markdown"><img alt="Markdown mark" style="height: 64px" src="./img/Markdown-mark.svg"></span>](https://daringfireball.net/projects/markdown/)
 [<span title="VBA"><img alt="VBA logo" style="height: 64px" src="./img/VBA_LOGO_Featured.jpg"></span>](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications)
 
-### Most Used Languages 🌟 ###
+### Most Used Languages 🌟
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SherpadNdabambi&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## Links 🔗 ##
+## Links 🔗
 
 Connect with me.
 
+<span title="Website">[<img alt="Website icon" src="./img/website-ui-web-svgrepo-com.svg" style="height: 32px">](http://sherpadndabambi.github.io/)</span>
 <span title="LinkedIn">[![LinkedIn icon](img/linkedin.png)](https://www.linkedin.com/in/sherpad-ndabambi)</span>
 <span title="GitHub">[![GitHub icon](img/github.png)](https://github.com/SherpadNdabambi)</span>
 <span title="Twitter">[![Twitter icon](img/twitter.png)](https://twitter.com/sherpadNdabambi)</span>
@@ -104,17 +109,17 @@ Connect with me.
 <span title="Google">[![Google Developers icon](img/Google%20Developers.png)](https://developers.google.com/profile/u/107231975472218130477)</span>
 <span title="TopCoder">[![TopCoder icon](img/cropped-TC-Icon-32x32.png)](https://platform.topcoder.com/profile/Sherpad)</span>
 
-## Rankings 🏆 ##
+## Rankings 🏆
 
-[CodinGame](https://www.codingame.com/) - 48,623<sup>rd</sup> (top 8% 🌍, top 9% 🇿🇼)*
+[CodinGame](https://www.codingame.com/) - 48,623<sup>rd</sup> (top 8% 🌍, top 9% 🇿🇼)\*
 
 [Clash of Code!](https://www.codingame.com/multiplayer/clashofcode) - 282,303<sup>rd</sup> / 496,374 (top 57% ⬆️)
 
-## Notes ##
+## Notes
 
 \* CodinGame and Clash of Code! rankings last updated on the 29th November, 2022
 
-## Attributions ##
+## Attributions
 
 [C# logo](https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg) by [Jason Groce](https://github.com/jasongroce) from [GitHub](https://github.com/dotnet/docs/blob/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/csharp.svg)
 
