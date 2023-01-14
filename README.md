@@ -96,9 +96,9 @@ I've written code in these languages as a hobby:
 Connect with me.
 
 <span title="Website">[<img alt="Website icon" src="./img/website-ui-web-svgrepo-com.svg" style="height: 32px">](http://sherpadndabambi.github.io/)</span>
-<span title="LinkedIn">[<img alt="LinkedIn icon" src="img/linkedin.png" style="height: 32px">](https://www.linkedin.com/in/sherpad-ndabambi)</span>
+<span title="LinkedIn">[<img alt="LinkedIn icon" src="./img/linkedin-svgrepo-com.svg" style="height: 32px">](https://www.linkedin.com/in/sherpad-ndabambi)</span>
 <span title="GitHub">[<img alt="GitHub icon" src="./img/github-svgrepo-com.svg" style="height: 32px">](https://github.com/SherpadNdabambi)</span>
-<span title="Twitter">[<img alt="Twitter icon" src="img/twitter.png" style="height: 32px">](https://twitter.com/sherpadNdabambi)</span>
+<span title="Twitter">[<img alt="Twitter icon" src="./img/Twitter-logo.svg" style="height: 32px">](https://twitter.com/sherpadNdabambi)</span>
 <span title="Facebook">[<img alt="Facebook icon" src="./img/Facebook_f_logo_(2021).svg" style="height: 32px">](https://www.facebook.com/sherpadg.ndabambi)</span>
 <span title="HackerRank">[![HackerRank icon](img/HackerRank.png)](https://www.hackerrank.com/sgndabambi)</span>
 <span title="CodeChef">[![CodeChef icon](img/icons8-codechef-32.png)](https://www.codechef.com/users/sherpad)</span>
