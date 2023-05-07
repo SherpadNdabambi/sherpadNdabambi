@@ -82,6 +82,7 @@ I've completed courses in the following languages:
 I've written code in these languages as a hobby:
 
 [<span title="BASH"><img alt="GNU Bash logo" style="height: 64px" src="./img/Gnu-bash-logo.svg"></span>](https://www.gnu.org/software/bash/)
+<span title="Batch"><img alt="Bat file format symbol" style="height: 64px" src="./img/bat-file-format-symbol.png"></span>
 [<span title="Google Apps Script"><img alt="Google Apps Script logo" style="height: 64px" src="./img/Google_Apps_Script.svg"></span>](https://script.google.com/)
 [<span title="Fish"><img alt="Fish logo" style="height: 64px" src="./img/Fish-shell-logo-ascii.svg"></span>](http://fishshell.com/)
 [<span title="Markdown"><img alt="Markdown mark" style="height: 64px" src="./img/Markdown-mark.svg"></span>](https://daringfireball.net/projects/markdown/)
@@ -120,6 +121,8 @@ Connect with me.
 \* CodinGame and Clash of Code! rankings last updated on the 29th November, 2022
 
 ## Attributions
+
+[Bat file format symbol](https://www.flaticon.com/free-icon/bat-file-format-symbol_29147) by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com/) used under the Flaticon license / background color changed from original
 
 [C# logo](https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg) by [Jason Groce](https://github.com/jasongroce) from [GitHub](https://github.com/dotnet/docs/blob/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/csharp.svg)
 
