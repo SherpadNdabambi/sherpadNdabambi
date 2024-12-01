@@ -26,9 +26,7 @@ Hello there 👋🏾, I'm Sherpad.
 
 ## About Me 👨🏾‍💻
 
-🎓 I'm a BSc in Computing student at the University of South Africa.
-
-💻 I'm currently learning web development through [freeCodeCamp](https://www.freecodecamp.org/).
+I'm a passionate self-taught developer with a lifelong fascination with computers. From writing my first code at 12 to creating websites, designing graphics, and building servers, I thrive on learning and growing my skills. I'm currently diving into forex trading and crafting innovative trading bots by blending finance with my coding expertise. I'm always eager to explore new technologies and conquer fresh challenges.
 
 ## Certificates 🏅
 
